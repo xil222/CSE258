@@ -1,2 +1,2 @@
 # CSE258
-Recommender System
+Web Mining and Recommender System
